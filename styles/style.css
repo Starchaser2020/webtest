@@ -1,0 +1,26 @@
+html {
+    background-color:rgba(86, 177, 49, 0.88);
+    font-size: 16px;
+    font-family: 'Kirang Haerang', cursive;
+}
+body {
+    width: 600px;
+    margin: auto auto;
+    background-color: #FF9500;
+    padding: 20px,20px,20px,20px;
+    border: 5px solid black;
+}
+p,li{
+    font-size:20px;
+    line-height:2;
+    letter-spacing:1px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+  text-align:center
+}
+
